@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0px;
+  text-decoration: none;
+  box-sizing: border-box;
+  letter-spacing: 0.5px;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+input,
+textarea {
+  outline: none
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}
+
+[hidden] {
+  display: none;
+}

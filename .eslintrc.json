@@ -1,0 +1,13 @@
+{
+  "extends": "proste/eslint_react_ts.js",
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "tsconfigRootDir": ".",
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "warnOnUnsupportedTypeScriptVersion": true
+  }
+}
